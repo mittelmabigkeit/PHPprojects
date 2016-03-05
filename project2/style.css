@@ -1,0 +1,42 @@
+.block1 {
+position:absolute;
+height:448px;
+width:494px;
+color:#654322;
+top:56px;
+margin-left:1px;
+border-radius:17px;
+border-width:7px;
+background-color:grey;
+border-style:double;
+} 
+.vivod-block {
+	
+	position:absolute;
+	border-width:1px;
+	border-style:solid;
+    width:100px;
+    height:25px;
+	margin-top:4px;
+	margin-left:120px;
+	background-color:rgba(65,69,69,0.4);
+	text-align:center;
+	font-size:14pt;
+	word-spacing:10px;
+} 
+
+.vvod-block {
+	
+	position:absolute;
+	border-width:1px;
+	border-style:solid;
+    width:100px;
+    height:25px;
+	margin-top:4px;
+	margin-left:10px;
+	background-color:rgba(65,69,69,0.4);
+	text-align:center;
+	font-size:14pt;
+	word-spacing:10px;
+} 
+	
